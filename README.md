@@ -403,7 +403,7 @@ Part 2 (osTicket Installation)
 osTicket is now successfully installed!
 <p>
 
-- Follow the Config File Permmission instructions.
+- Follow the Config File Permission instructions.
 
 </p>
 <br />
